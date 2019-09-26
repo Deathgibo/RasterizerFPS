@@ -1,0 +1,8 @@
+-method 1-
+.one way is to create a ray, its location is the center of the sphere and its direction is the opposite of the normal of the plane. Now just find the location at which it hits the plane (it will because its normal direction), by finding t and plugging in and see if the distance is less than the radius if it is your done.
+
+-method 2-
+.this might only work with flat planes but try and find the level curves at the fixed plane because they tell you intersection points between surface(sphere) and plane, so if you graph it and theres nothing then it didnt intersect else it did, but this method seems wierd not sure if you could tell a computer to do this and the value returned might be junk or divide by zeros
+**no matter what we plug in it might give us an answer so we need to actually confine it so maybe x<5 and y < 2 and y>3 for it to actually be right
+
+-method 3-

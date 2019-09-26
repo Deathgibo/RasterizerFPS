@@ -1,0 +1,9 @@
+calculus 3
+
+to create a basis you need a vector equation of the line and the derivative gives you the first basis which points in the parralel direction of the tangent to that point
+
+now normalize it and take the derivate that derivative is orthogonal because if the points of a function all have same length its proven that the derivative * original = 0
+
+so now just cross product those to get the binormal
+
+you have the unit tangent vector, the unit normal vector, and the binormal vector
