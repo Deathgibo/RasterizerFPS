@@ -1,0 +1,28 @@
+did point lights
+did camera
+
+now add sounds for shooting and walking
+add gui for bullet count and reload
+add reload animation
+
+add crouching and jumping
+fix movement
+and point light flash when shooting
+add bullets dropping when shooting
+recoil - just changes your lookat vector, yaw and pitch
+add circle class with triangulate method
+add bullet rays that have position and direction
+create ray triangle collision and ray plane collision
+color whole circle or triangle if hit
+fix sound
+make main menu and instructions 
+get 60 fps
+set up ico
+find memory leak
+see if backgroundf can be transparent
+try and find bug for a little
+fix dissapear bug
+fix aim rotation bug
+
+change to windows mode
+upload to dropbox, github :)

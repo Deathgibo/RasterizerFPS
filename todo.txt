@@ -1,0 +1,6 @@
+create another camera angle
+create point lights
+create running sounds
+create shooting, point light flash, reload, bullet drop
+add gui, menu
+finally add the bullet collision

@@ -1,0 +1,281 @@
+# Blender MTL File: 'mp5.blend'
+# Material Count: 28
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.186466 0.186466 0.186466
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\walla\Desktop\Grama Textura.png
+map_Disp C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ns C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ks C:\\Users\\walla\\Desktop\\textpn5.png
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl anel_fixacao
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.004483 0.004483 0.004483
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl barra_corona
+Ns 492.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.007214 0.007214 0.007214
+Ks 0.003759 0.003759 0.003759
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl botao_corona
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.246617 0.246617 0.246617
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\walla\Desktop\Grama Textura.png
+map_Disp C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ns C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ks C:\\Users\\walla\\Desktop\\textpn5.png
+
+newmtl cano
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.013379 0.013379 0.013379
+Ks 0.052632 0.052632 0.052632
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl corona
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.234586 0.234586 0.234586
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\walla\Desktop\Grama Textura.png
+map_Disp C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ns C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ks C:\\Users\\walla\\Desktop\\textpn5.png
+
+newmtl corpo
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.006190 0.006190 0.006190
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl cubo
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.156391 0.156391 0.156391
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\walla\Desktop\Grama Textura.png
+map_Disp C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ns C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ks C:\\Users\\walla\\Desktop\\textpn5.png
+
+newmtl descarte_carredor
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.004591 0.004591 0.004591
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl detha_corona
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.258647 0.258647 0.258647
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\walla\Desktop\Grama Textura.png
+map_Disp C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ns C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ks C:\\Users\\walla\\Desktop\\textpn5.png
+
+newmtl escotilha
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.012795 0.012795 0.012795
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl fivela
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.005304 0.005304 0.005304
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl gatilho
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.312782 0.312782 0.312782
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\walla\Desktop\Grama Textura.png
+map_Disp C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ns C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ks C:\\Users\\walla\\Desktop\\textpn5.png
+
+newmtl gatilho.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.005583 0.005583 0.005583
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl letereiro
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl leteriro2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl mira_frontal
+Ns 201.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.008155 0.008155 0.008155
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl mira_traseira
+Ns 998.039216
+Ka 0.000000 0.000000 0.000000
+Kd 0.006460 0.006460 0.006460
+Ks 0.030075 0.030075 0.030075
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl parafusos_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.005761 0.005761 0.005761
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl pente
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.005485 0.005485 0.005485
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl pino_disparo
+Ns 260.784314
+Ka 0.000000 0.000000 0.000000
+Kd 0.006750 0.006750 0.006750
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl pino_do_pino_de_disparo.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.002063 0.002063 0.002063
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl pino_frontal
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.009772 0.009772 0.009772
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl pino_traseiro
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl proteçao
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.007214 0.007214 0.007214
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl punhal
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.156391 0.156391 0.156391
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\walla\Desktop\Grama Textura.png
+map_Disp C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ns C:\\Users\\walla\\Desktop\\textpn5.png
+map_Ks C:\\Users\\walla\\Desktop\\textpn5.png
+
+newmtl seletor
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.015078 0.015078 0.015078
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
